@@ -63,11 +63,9 @@ Demo Credit is a mobile lending app that requires wallet functionality to facili
 ### Development Workflow:
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Setup MySQL database and configure connection details in `config/db.ts`.
-4. Run migrations using `npm run migrate` to create necessary tables.
-5. Seed database with initial data using `npm run seed`.
-6. Start the server using `npm start`.
-7. Use provided API endpoints for testing.
+3. Setup MySQL database and configure connection details in `src/config/knex.ts`.
+4. Start the server using `npm run dev`.
+5. Use provided API endpoints for testing.
 
 ### Commit History:
 - Commit messages will follow a descriptive and concise format, summarizing the changes made in each commit.
