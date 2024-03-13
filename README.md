@@ -42,7 +42,7 @@ Demo Credit is a mobile lending app that requires wallet functionality to facili
 - Detailed README documentation will be provided, including setup instructions, API endpoints, and ER diagram.
 
 ### ER Diagram:
-[ER Diagram](ER_Diagram.png)
+[ER Diagram](https://dbdesigner.page.link/npjPQzuGHGRfzXe56)
 
 ### Folder Structure:
 - src/
